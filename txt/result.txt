@@ -1,0 +1,5 @@
+
+Nombre de producto: tripode
+Codigo: 005621
+Precio: 30000
+En inventario: 1

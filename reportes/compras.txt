@@ -1,0 +1,3 @@
+['iphone 12:1', 'nikon d90:1']
+['canon mark iv:1', 'tripode:0', 'huawei p30:2']
+['iphone 12:6', 'nikon d90:1']
