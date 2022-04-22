@@ -11,6 +11,7 @@
 
 
 *Ingreso como administrador*
+
 Para ingresar como administrador, el usuario y contraseña son los siguientes:
 
 -**usuario**: `admin`
