@@ -2,6 +2,8 @@
 
 **USO DEL PROGRAMA**
 
+Primero hay que descargar el archivo zip, y extraer todos sus archivos en una carpeta, luego
+
 1. Abrir una terminal
 2. Dirigirse al directorio donde estan los archivos descargados
 3. Estando en el directorio, escribimos `python main.py`
